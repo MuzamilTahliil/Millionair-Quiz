@@ -123,19 +123,6 @@ body, html {
     overflow-y: auto;
   }
   
-  /* .money-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  } */
-  
-  /* .money-list .item {
-    display: flex;
-    justify-content: space-between;
-    padding: 10px;
-    border-bottom: 1px solid #415a77;
-  } */
-  
   .money-list .item.active {
     background-color: #415a77;
   }
