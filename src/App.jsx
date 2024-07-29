@@ -1,10 +1,11 @@
 import React from 'react'
 
 import { Route, Routes } from 'react-router-dom'
-import QuizPage from './page/QuizPage'
-import NotFound from './components/NotFound'
 import Home from './pages/Home'
 import About from './pages/About'
+import Contact from './pages/Contact'
+import QuizPage from './pages/QuizPage'
+import NotFound from './components/NotFound'
 
 function App() {
   return(
