@@ -10,9 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "mdb-react-ui-kit": "^8.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.25.1"
+    "react-router-dom": "^6.25.1",
+    "use-sound": "^4.0.3"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
