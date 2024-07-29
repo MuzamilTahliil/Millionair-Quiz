@@ -112,13 +112,13 @@ function Home() {
 </section>
 
              {/* New Section for Top Winners */}
-             <section className="py-20 bg-blue-100 rounded-2xl ">
+             <section className="py-20  rounded-2xl ">
                 <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8 ">
                     <h2 className="text-3xl font-bold text-center text-black sm:text-4xl lg:text-5xl">Top Winners</h2>
                     <p className="mt-4 text-center text-gray-600">Check out our top players who have scored the highest in our quiz challenge!</p>
                     <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
                         {/* Winner 1 */}
-                        <div className="p-6 bg-[#ec4899] rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300">
+                        <div className="p-6 bg-[#6d28d9] rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300">
                             <img className="w-24 h-24 mx-auto rounded-full border-4 border-blue-500" src="winner.jpg" alt="Winner 1" />
                             <h3 className="mt-4 text-xl font-semibold text-center text-black">Winner 1</h3>
                             <div className="flex justify-center">
@@ -126,7 +126,7 @@ function Home() {
                             </div>
                         </div>
                         {/* Winner 2 */}
-                        <div className="p-6 bg-[#ec4899] rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300">
+                        <div className="p-6 bg-[#6d28d9] rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300">
                             <img className="w-24 h-24 mx-auto rounded-full border-4 border-blue-500" src="winner.jpg" alt="Winner 2" />
                             <h3 className="mt-4 text-xl font-semibold text-center text-black">Winner 2</h3>
                             <div className="flex justify-center">
@@ -134,7 +134,7 @@ function Home() {
                             </div>
                             </div>
                         {/* Winner 3 */}
-                        <div className="p-6 bg-[#ec4899] rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300">
+                        <div className="p-6 bg-[#6d28d9] rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300">
                             <img className="w-24 h-24 mx-auto rounded-full border-4 border-blue-500" src="winner.jpg" alt="Winner 3" />
                             <h3 className="mt-4 text-xl font-semibold text-center text-black">Winner 3</h3>
                             <div className="flex justify-center">
