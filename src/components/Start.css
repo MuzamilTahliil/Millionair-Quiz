@@ -1,55 +1,55 @@
 /* Start.css */
 body {
-    height: 110vh;
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background-color: #142941;
-      color: white;
-    }
-    
-    .start-container {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      text-align: center;
-    }
-    
-    .start-container input {
-      padding: 10px;
-      border: 1px solid #415a77;
-      border-radius: 5px;
-      margin-bottom: 20px;
-      background-color: #1b263b;
-      color: white;
-      width: 100%;
-      max-width: 300px; /* Adjust as needed */
-    }
-    
-    .start-container .form-control::placeholder {
-      color: #d1d1d1;
-    }
-    
-    .start-container .form-control:focus {
-      background-color: #1b263b;
-      color: white;
-      border: 1px solid #415a77;
-      box-shadow: none;
-    }
-    
-    .start-container .start-button {
-      padding: 10px;
-      border: 1px solid #415a77;
-      border-radius: 5px;
-      margin-bottom: 20px;
-      background-color: #2656ae;
-      color: white;
-      width: 100%;
-      max-width: 300px;
-    }
-    
-    .start-container .start-button:hover {
-      background-color: #0061fd; /* Darker shade for hover effect */
-    }
-    
+  height: 110vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #142941;
+    color: white;
+  }
+  
+  .start-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .start-container input {
+    padding: 10px;
+    border: 1px solid #415a77;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: #1b263b;
+    color: white;
+    width: 100%;
+    max-width: 300px; /* Adjust as needed */
+  }
+  
+  .start-container .form-control::placeholder {
+    color: #d1d1d1;
+  }
+  
+  .start-container .form-control:focus {
+    background-color: #1b263b;
+    color: white;
+    border: 1px solid #415a77;
+    box-shadow: none;
+  }
+  
+  .start-container .start-button {
+    padding: 10px;
+    border: 1px solid #415a77;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: #2656ae;
+    color: white;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .start-container .start-button:hover {
+    background-color: #0061fd; /* Darker shade for hover effect */
+  }
+  
