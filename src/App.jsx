@@ -1,11 +1,10 @@
 import React from 'react'
-import Login from './page/Login'
-import Home from './page/Home'
-import About from './page/About'
-import Contact from './page/Contact'
+
 import { Route, Routes } from 'react-router-dom'
 import QuizPage from './page/QuizPage'
 import NotFound from './components/NotFound'
+import Home from './pages/Home'
+import About from './pages/About'
 
 function App() {
   return(
@@ -13,10 +12,10 @@ function App() {
      {/* Routes */}
      
      <Routes>
-      <Route path='/' element={< Home />} />
+      <Route path='/' element={<Home />} />
       <Route path='/quiz' element={<QuizPage />} />
       <Route path='/contact' element={<Contact />} />
-      <Route path='/About/' element={< About />} />
+      <Route path='/About/' element={<About />} />
       <Route path='*' element={<NotFound />} />
      </Routes>
     </div>
