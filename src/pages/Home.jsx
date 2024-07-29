@@ -86,7 +86,7 @@ function Home() {
 
 
             {/* New Section for Game Rules */}
-            <section className=" py-20  flex justify-center items-center bg-white ">
+            <section className=" py-20  flex justify-center items-center  ">
     <div className=" w-full max-w-7xl px-10 mx-auto bg-[#6d28d9] rounded-2xl shadow-lg py-20">
         <h2 className="text-3xl font-bold text-center text-white sm:text-4xl lg:text-5xl transform hover:scale-105 transition-transform duration-300">Game Rules</h2>
         <p className="mt-4 text-center text-gray-300 transform hover:scale-105 transition-transform duration-300">Understand the rules of the game to play better and score higher!</p>
