@@ -3,6 +3,27 @@
 ## Links 
 - Github : https://github.com/MuzamilTahliil/Millionair-Quiz/tree/main.
 - Vercel :https://millionair-quiz.vercel.app/.
+
+# Screenshots
+
+Include screenshots of your app here.
+
+### Home Page
+![image](https://github.com/user-attachments/assets/eac545f5-f355-4367-b9ff-6f9fa3874ac9)
+![image](https://github.com/user-attachments/assets/c562d927-126b-42ff-8b27-206a007c6595)
+![image](https://github.com/user-attachments/assets/10be956d-2d23-4335-9206-58ae70a55ace)
+
+### Quiz Page
+![image](https://github.com/user-attachments/assets/112b998e-b792-45d3-89ce-dc7b9b8adc60)
+![image](https://github.com/user-attachments/assets/4ecd0322-38b8-4ade-a654-1a1e52c2cadc)
+
+### About Page
+![image](https://github.com/user-attachments/assets/3eeabc40-1ce2-45eb-ab10-58e6b536a582)
+
+### Contact Page
+![image](https://github.com/user-attachments/assets/b2bd4a82-e0bd-4440-b5a2-3c3fe265de75)
+
+
 ## Installation
 
 To get started with this project, clone the repository and install the dependencies:
@@ -31,27 +52,6 @@ npm run build
 - Contact form for user inquiries.
 - Responsive design using Tailwind CSS.
 ```
-
-# Screenshots
-
-Include screenshots of your app here.
-
-### Home Page
-![image](https://github.com/user-attachments/assets/eac545f5-f355-4367-b9ff-6f9fa3874ac9)
-![image](https://github.com/user-attachments/assets/c562d927-126b-42ff-8b27-206a007c6595)
-![image](https://github.com/user-attachments/assets/10be956d-2d23-4335-9206-58ae70a55ace)
-
-### Quiz Page
-![image](https://github.com/user-attachments/assets/112b998e-b792-45d3-89ce-dc7b9b8adc60)
-![image](https://github.com/user-attachments/assets/4ecd0322-38b8-4ade-a654-1a1e52c2cadc)
-
-### About Page
-![image](https://github.com/user-attachments/assets/3eeabc40-1ce2-45eb-ab10-58e6b536a582)
-
-### Contact Page
-![image](https://github.com/user-attachments/assets/b2bd4a82-e0bd-4440-b5a2-3c3fe265de75)
-
-
 ## Project Structure
 
 ```markdown
