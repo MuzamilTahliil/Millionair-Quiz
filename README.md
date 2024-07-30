@@ -35,6 +35,11 @@ npm run build
 
 ```
 
+## Links 
+- Github : https://github.com/MuzamilTahliil/Millionair-Quiz/tree/main.
+- Vercel :https://millionair-quiz.vercel.app/.
+
+
 ## Features
 
 - Home page with navigation links to Home, About, and Contact pages.
