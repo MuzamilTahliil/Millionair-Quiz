@@ -50,7 +50,9 @@ npm run build
 Include screenshots of your app here.
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![image](https://github.com/user-attachments/assets/eac545f5-f355-4367-b9ff-6f9fa3874ac9)
+![image](https://github.com/user-attachments/assets/c562d927-126b-42ff-8b27-206a007c6595)
+![Uploading image.png…]()
 
 ### Quiz Page
 ![Quiz Page](screenshots/quiz.png)
