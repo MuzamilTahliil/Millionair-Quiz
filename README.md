@@ -52,16 +52,16 @@ Include screenshots of your app here.
 ### Home Page
 ![image](https://github.com/user-attachments/assets/eac545f5-f355-4367-b9ff-6f9fa3874ac9)
 ![image](https://github.com/user-attachments/assets/c562d927-126b-42ff-8b27-206a007c6595)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/10be956d-2d23-4335-9206-58ae70a55ace)
 
 ### Quiz Page
-![Quiz Page](screenshots/quiz.png)
+![image](https://github.com/user-attachments/assets/8e880433-d2b2-45e1-8a39-e41293e974b6)
 
 ### About Page
-![About Page](screenshots/about.png)
+![image](https://github.com/user-attachments/assets/3eeabc40-1ce2-45eb-ab10-58e6b536a582)
 
 ### Contact Page
-![Contact Page](screenshots/contact.png)
+![image](https://github.com/user-attachments/assets/b2bd4a82-e0bd-4440-b5a2-3c3fe265de75)
 
 ## Contributing
 
