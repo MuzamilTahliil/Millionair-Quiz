@@ -23,6 +23,8 @@ Include screenshots of your app here.
 ### Contact Page
 ![image](https://github.com/user-attachments/assets/b2bd4a82-e0bd-4440-b5a2-3c3fe265de75)
 
+# Description
+A thrilling and engaging quiz application built with React and Vite, inspired by the popular TV show "Who Wants to Be a Millionaire?". This app challenges users with a series of questions, allowing them to test their knowledge, compete with friends, and see who can score the highest.
 
 ## Installation
 
