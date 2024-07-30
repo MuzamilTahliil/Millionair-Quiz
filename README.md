@@ -30,6 +30,7 @@ npm run build
 - Top winners section to showcase the highest scorers.
 - Contact form for user inquiries.
 - Responsive design using Tailwind CSS.
+```
 
 # Screenshots
 
@@ -43,8 +44,6 @@ Include screenshots of your app here.
 ### Quiz Page
 ![image](https://github.com/user-attachments/assets/112b998e-b792-45d3-89ce-dc7b9b8adc60)
 ![image](https://github.com/user-attachments/assets/4ecd0322-38b8-4ade-a654-1a1e52c2cadc)
-
-
 
 ### About Page
 ![image](https://github.com/user-attachments/assets/3eeabc40-1ce2-45eb-ab10-58e6b536a582)
